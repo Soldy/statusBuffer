@@ -1,0 +1,34 @@
+{
+  "name": "status-buffer",
+  "version": "0.0.1-dev20210114",
+  "description": "pre process data buffer for AI",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Soldy/preDataBuffer.git"
+  },
+  "keywords": [
+    "fuckyou"
+  ],
+  "author": "soldy <4786022+Soldy@users.noreply.github.com>",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/Soldy/preDataBuffer/issues"
+  },
+  "homepage": "https://github.com/Soldy/preDataBuffer#readme",
+  "dependencies": {
+    "confrc": "^1.0.0",
+    "initrc": "^1.0.1-r2",
+    "interactiveConsole": "0.0.7-alpha0",
+    "logrc": "0.0.3",
+    "poolrc": "^0.9.9-alpha7",
+    "statusrc": "0.0.1-dev20210114",
+    "temprc": "^0.9.9-alpha4"
+  },
+  "devDependencies": {
+    "nanoTest": "^0.9.9-beta9"
+  }
+}
